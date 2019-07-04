@@ -1,0 +1,79 @@
+body {
+  background-color:white;             /*#F0F8FF	; */
+  font-size: 20px;
+}
+
+.teste {
+  background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbdw7AltLeKfjPbWgmDs1-oH84hZGXogc-icdiLM7uhhK1y0d");
+  text-align: center;
+  width: 100%;
+  height: 40px;
+
+}
+.txtbody {
+
+  margin-top: 30px;
+  border:5px solid gray;
+  border-radius: 10px;
+  border-left: -20px;
+  position: relative;
+}
+.teste a  {
+  color:snow;
+  font-family: Arial,Arial Black;
+  font-size: 20px;
+  /* text-align-last: center; */
+  text-decoration: none;
+  margin-left: 15px;
+}
+#menu1{
+ color: white;
+ list-style: none;
+ display:inline-flex;
+ margin-right: 18px;
+ margin-top:3px;
+}
+
+li {
+  margin-left:10px;
+
+}
+
+#titulo {
+Color:#00FF00;
+text-align:right;
+font-style: oblique;
+margin-right: 3%;
+list-style-position:
+
+}
+
+.txtbody p{
+  font-size: 20px;
+  text-align: justify;
+  position: relative;
+
+
+  margin-right:70%;
+  margin-left: 3%;
+
+}
+
+#vovo {
+  height:30%;
+  width:40%;
+  /* margin-right */
+  margin-left: 55%;
+  margin-top: -150px;
+  /* margin-bottom:200px; */
+  position:relative;
+
+}
+
+#downloadpdf {
+   margin-top: -500px;
+}
+
+#reply {
+  color: red;
+}
